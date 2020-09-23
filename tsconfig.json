@@ -6,5 +6,20 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/ngx-form-validator/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/ngx-form-validator/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/validator-test/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/validator-test/tsconfig.spec.json"
+    }
+
+
+]
 }

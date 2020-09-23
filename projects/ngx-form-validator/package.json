@@ -1,0 +1,23 @@
+{
+  "name": "ngx-form-validator-super",
+  "version": "0.0.4",
+  "peerDependencies": {
+    "@angular/common": "^10.0.14",
+    "@angular/core": "^10.0.14"
+  },
+  "author": {
+    "name": "Mukul Singh",
+    "email": "mmukulssingh@gmail.com"
+  },
+  "keywords": [
+    "Angular",
+    "Reactive form",
+    "Reactive Form Validator",
+    "Validator",
+    "Auto Message Validator",
+    "Validations"
+  ],
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\projects",
+    "\\projects\\ngx-form-validator",
+    "\\projects\\ngx-form-validator\\src",
+    "\\projects\\ngx-form-validator\\src\\lib",
+    "\\projects\\ngx-form-validator\\src\\lib\\Directive",
+    "\\projects\\validatorTest",
+    "\\projects\\validatorTest\\src",
+    "\\projects\\validatorTest\\src\\app"
+  ],
+  "SelectedNode": "\\projects\\validatorTest\\src\\app\\app.component.html",
+  "PreviewInSolutionExplorer": false
+}

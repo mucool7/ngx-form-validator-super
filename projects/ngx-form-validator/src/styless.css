@@ -1,0 +1,14 @@
+
+.ngx-validation-label{
+  color: red;
+}
+
+table._ng-super-panel tr th{
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table._ng-super-panel tr td{
+
+  border: 1px solid #efefef;
+  border-spacing: collapse;
+}
